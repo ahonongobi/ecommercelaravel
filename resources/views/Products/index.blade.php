@@ -134,9 +134,7 @@ gobi abyssinie abyssiniea@gmail.com
 			<select class="list_of_cities">
 				<optgroup label="Popular Cities">
 					<option selected style="display:none;color:#eee;">Select City</option>
-					<option>Birmingham</option>
-					<option>Anchorage</option>
-					<option>Phoenix</option>
+					
 					<option>Little Rock</option>
 					<option>Los Angeles</option>
 					<option>Denver</option>
